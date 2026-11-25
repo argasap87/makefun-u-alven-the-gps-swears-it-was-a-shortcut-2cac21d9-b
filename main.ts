@@ -1,10 +1,12 @@
 // The GPS Swears It Was a Shortcut — variant B
 //
 // The entry is the GPS's own excuse for sending the driver down the wrong
-// road. The hook: the GPS admits it lied about the label for screen-space
-// reasons — a bureaucratic excuse, smug and defensive, with a wedding and
-// a lake as the fresh specific detail. No "recalculating" joke, no driver
-// voice, no dialogue tags: just the GPS caught red-handed, blaming the map.
+// road. The hook: the GPS pleads guilty to the label but not the route —
+// it only called it a shortcut because the honest label was too long
+// for the screen. A bureaucratic excuse, smug and defensive, with a
+// wedding and a lake as the fresh specific detail. No "recalculating"
+// joke, no driver voice, no dialogue tags: just the GPS caught
+// red-handed, blaming the map's character limit instead of its routing.
 //
 // Writes one line (104 characters) to /output/entry.txt.
 
